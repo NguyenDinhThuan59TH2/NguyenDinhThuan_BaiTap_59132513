@@ -1,2 +1,0 @@
-# NguyenDinhThuan_BaiTap_59132513
-Design Pattern
