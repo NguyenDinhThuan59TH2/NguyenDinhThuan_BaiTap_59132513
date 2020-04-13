@@ -3,10 +3,10 @@ public class NhanVien {
     public String ten;
     public int tuoi;
     public String diachi;
-    public Double luong;
+    public double luong;
     public int tonggiolam;
 
-    public NhanVien(String ten, int tuoi, String diachi, Double luong, int tonggiolam) {
+    public NhanVien(String ten, int tuoi, String diachi, double luong, int tonggiolam) {
         this.ten = ten;
         this.tuoi = tuoi;
         this.diachi = diachi;

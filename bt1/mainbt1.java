@@ -5,6 +5,6 @@ public class mainbt1 {
         NhanVien nhanvien2 = new NhanVien("Nguyen Van Thuan",21, "Quang Nam", (double) 2500000, 51);
 
         nhanvien1.getthongtin();
-        nhanvien1.getthongtin();
+        nhanvien2.getthongtin();
     }
 }
